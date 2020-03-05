@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Expense Reports</name>
+        <source_table>x_459524_tovon_cod_expense_report</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 19:00:09</sys_created_on>
+        <sys_id>bfe208e21b53001035c6fcc8cc4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Reports</sys_name>
+        <sys_package display_value="Tovon code" source="x_459524_tovon_cod">293144aa1b13001035c6fcc8cc4bcb29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tovon code">293144aa1b13001035c6fcc8cc4bcb29</sys_scope>
+        <sys_update_name>sys_search_source_bfe208e21b53001035c6fcc8cc4bcb61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 19:00:09</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=bfe208e21b53001035c6fcc8cc4bcb61"/>
+</record_update>
